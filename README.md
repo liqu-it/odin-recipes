@@ -1,2 +1,2 @@
 # odin-recipes
-TOP HTML Foundation - Project: Recipes
+TOP HTML Foundations - Project: Recipes
