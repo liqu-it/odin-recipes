@@ -1,0 +1,28 @@
+
+
+* {
+  background-color: #a6b2dbc9;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+
+.headline,
+.recipes,
+.recipe {
+  background-color: #e7d0bcd3;
+}
+
+.headline {
+  text-align: center;
+}
+
+.breakfast {
+  color: #2d9b0bfa;
+}
+
+.snack {
+  color: #dc143cfa;
+}
+
+.dinner {
+  color: #c449c4fa;
+}
