@@ -26,3 +26,25 @@
 .dinner {
   color: #c449c4fa;
 }
+
+.breakfast.breakfastSub {
+  color: #2d9b0b66;
+}
+
+.snack.snackSub {
+  color: #dc143c66;
+}
+
+.dinner.dinnerSub {
+  color: #c449c466;
+}
+
+.headerImg {
+  
+  width: 450px;
+  height: 300px;
+}
+
+.boldText {
+  font-weight: bold;
+}
